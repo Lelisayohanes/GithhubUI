@@ -1,1 +1,3 @@
-
+this one is code of conduct for the project and any collaboratoer shoulkd respect this 
+1...
+2..
